@@ -2,7 +2,7 @@
 
 Hello, This is Dodgeblock!
 
-This is a arcade roam game. It is written in python, with the GUI using the pygame library and the randomization using the random library. Sound and time used methods pf the pygame library. Dodgeblock uses OOP prinicples
+This is an arcade roam game. It is written in python, with the GUI using the pygame library and randomization using the random library. Sound and time used methods of the pygame library. Dodgeblock uses OOP prinicples
 
 ## Goal
 
